@@ -1,0 +1,13 @@
+
+{
+  "name": "ChatApp",
+  "version": "1.0.0",
+  "description": "Chat Application Using NodeJs, AngularJs and ExpressJs",
+  "dependencies": [],
+  "devDependencies": {
+    "express": "^4.13.4",
+    "http": "0.0.0",
+    "socket.io": "^1.4.6"
+  },
+  "author": "Sanket Kumar"
+}
